@@ -7,4 +7,5 @@ streamlit_folium
 plotly==5.9.0
 plotnine==0.12.4
 bs4
+BeautifulSoup
 requests==2.31.0
