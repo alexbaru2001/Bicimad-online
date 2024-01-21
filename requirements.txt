@@ -5,3 +5,7 @@ shapely==2.0.1
 pyproj==3.6.1
 streamlit_folium
 plotly==5.9.0
+plotnine==0.12.4
+re==2.2.1
+bs4==4.12.2
+requests==2.31.0
